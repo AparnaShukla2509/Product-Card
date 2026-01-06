@@ -15,18 +15,6 @@ A **React.js web application** that generates **AI-powered product details** (ti
 | Pure CSS | Styling with modern UI effects |
 | Axios | REST API calls |
 
-##  Project Structure
-src/
-├── api/
-│   └── generateContent.js    # AI API integration layer
-├── components/
-│   ├── ProductForm.js        # Form component with input handling
-│   ├── ProductForm.css       # Form styling with animations
-│   ├── ProductCard.js        # Product card display component
-│   └── ProductCard.css       # Card styling with gradients
-├── App.js                    # Main app component
-├── App.css                   # Global styles with header
-└── index.js                  # Application entry point
 
 
 ##  Product Examples by Category
